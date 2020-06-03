@@ -17,7 +17,7 @@ public class ServerSide {
         try {
             while (true) {
                 Socket socket = server.accept();
-                //TODO: add response functionality
+                RequestInfo.getRequestInformation(socket);
                 try {
                     serverList.add(new ServerProcess(socket));
                 } catch (IOException e) {

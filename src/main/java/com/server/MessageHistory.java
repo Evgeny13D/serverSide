@@ -28,10 +28,7 @@ public class MessageHistory {
                 writer.write("/...." + "\n");
                 writer.flush();
             } catch (IOException ignored) {
-
             }
-
         }
-
     }
 }
