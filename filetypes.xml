@@ -4,7 +4,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="tsx" type="PLAIN_TEXT" />
       <mapping pattern="Tab" type="TypeScript" />
+      <removed_mapping ext="tsx" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
