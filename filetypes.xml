@@ -6,6 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="exportenv" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
+      <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
       <mapping pattern="Tab" type="TypeScript" />
     </extensionMap>
