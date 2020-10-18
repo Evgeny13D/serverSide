@@ -4,12 +4,14 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="hymDetailsKeyboard.ts" type="PLAIN_TEXT" />
       <mapping pattern="exportenv" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
+      <mapping pattern="hymnDeteilsKeyBoard.ts" type="TypeScript" />
       <mapping pattern="Tab" type="TypeScript" />
     </extensionMap>
   </component>
