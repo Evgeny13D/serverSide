@@ -9,6 +9,7 @@
       <mapping ext="deploy" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="cvg" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping pattern="Tab" type="TypeScript" />
       <mapping pattern="hymnDeteilsKeyBoard.ts" type="TypeScript" />
