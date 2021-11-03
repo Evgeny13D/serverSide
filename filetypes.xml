@@ -1,22 +1,23 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Component.ts" type="AUTO_DETECTED" />
-      <mapping pattern="alps-related-stories" type="AUTO_DETECTED" />
       <mapping pattern="LICENCE" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="alps-related-stories" type="AUTO_DETECTED" />
+      <mapping pattern="Component.ts" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="hymDetailsKeyboard.ts" type="PLAIN_TEXT" />
       <mapping pattern="exportenv" type="PLAIN_TEXT" />
+      <mapping pattern="hymDetailsKeyboard.ts" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="cvg" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
-      <mapping pattern="Tab" type="TypeScript" />
       <mapping pattern="hymnDeteilsKeyBoard.ts" type="TypeScript" />
+      <mapping pattern="Tab" type="TypeScript" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
